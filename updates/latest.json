@@ -1,0 +1,11 @@
+{
+  "version": "0.1.6",
+  "notes": "우락밤 0.1.6",
+  "pub_date": "2026-10-28T03:05:27.732Z",
+  "platforms": {
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYVdXeDdvMHdzMTdxN1ZGQVB2Z2YvVEVPNG1MNys3R2FocjM3U1Q4MDM0UVNxQnBtMWNvaWd6N3N1R0ptVE9vWUtEbGJxZnVyU243enNTOFVHV3VULzhvdjVxVzdueHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTU2NDg0CWZpbGU6VXJha2JhbV8wLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYKcG1oeDJnWWc2NmZVdHI1WThyTkxVZjE0TzhrQXZJYzhaUW9qQXNrRUI4eUlabXRMRHJBT3VLa2pJMFJIb2RiUXF2R3praTRvWFBRN1BXbEZqd09HQVE9PQo=",
+      "url": "https://github.com/odorbam/deskbam/releases/download/v0.1.6/Urakbam_0.1.6_x64-setup.exe"
+    }
+  }
+}
