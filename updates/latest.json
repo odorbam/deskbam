@@ -1,11 +1,11 @@
 {
-  "version": "0.1.6",
-  "notes": "우락밤 0.1.6",
-  "pub_date": "2026-10-28T03:05:27.732Z",
+  "version": "0.1.7",
+  "notes": "0.1.7",
+  "pub_date": "2026-10-30T14:03:39.669Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYVdXeDdvMHdzMTdxN1ZGQVB2Z2YvVEVPNG1MNys3R2FocjM3U1Q4MDM0UVNxQnBtMWNvaWd6N3N1R0ptVE9vWUtEbGJxZnVyU243enNTOFVHV3VULzhvdjVxVzdueHd3PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMTU2NDg0CWZpbGU6VXJha2JhbV8wLjEuNl94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjYKcG1oeDJnWWc2NmZVdHI1WThyTkxVZjE0TzhrQXZJYzhaUW9qQXNrRUI4eUlabXRMRHJBT3VLa2pJMFJIb2RiUXF2R3praTRvWFBRN1BXbEZqd09HQVE9PQo=",
-      "url": "https://github.com/odorbam/deskbam/releases/download/v0.1.6/Urakbam_0.1.6_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVRYVdXeDdvMHdzMXlRZUxGN2xIN0F6NU1SL2lrK21XdGVxdC9FdnljZTdJcGk3alJvYUhsQnBqbUhucVlxY3hjNmtqVnpJVWJxTlR0VXEzTDZNVmJTcCtkOTh1dWdSV3dvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMzY4OTU4CWZpbGU6VXJha2JhbV8wLjEuN194NjQtc2V0dXAuZXhlCXZlcnNpb246MC4xLjcKWlZtU1N5SFlhTG9lRGtkZ3h2ei8vTjdMK0xhN1J4c2VrclRHTWV3cmMxdm5GZTZGK2g3NUswcmFvVlI0WkNtZUVGT1BHSFJUK3ZHSjZ0U0tlQUFlQ3c9PQo=",
+      "url": "https://github.com/odorbam/deskbam/releases/download/v0.1.7/Urakbam_0.1.7_x64-setup.exe"
     }
   }
 }
